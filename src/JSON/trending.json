@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "/img1.jpg",
+        "name": "Single Tour",
+        "sum": "$200"
+    },
+    {
+        "id": 2,
+        "img": "/img2.jpg",
+        "name": "Single Tour",
+        "sum": "$150"
+    },
+    {
+        "id": 5,
+        "img": "/img1.jpg",
+        "name": "Single Tour",
+        "sum": "$220"
+    },
+    {
+        "id": 6,
+        "img": "/img2.jpg",
+        "name": "Single Tour",
+        "sum": "$100"
+    },
+    {
+        "id": 7,
+        "img": "/img3.jpg",
+        "name": "Single Tour",
+        "sum": "$250"
+    },
+    {
+        "id": 8,
+        "img": "/img4.jpg",
+        "name": "Single Tour",
+        "sum": "$300"
+    },
+    {
+        "id": 3,
+        "img": "/img3.jpg",
+        "name": "Single Tour",
+        "sum": "$260"
+    },
+    {
+        "id": 4,
+        "img": "/img4.jpg",
+        "name": "Single Tour",
+        "sum": "$120"
+    }
+]
